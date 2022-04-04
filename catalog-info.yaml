@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: MessaingApp
+  annotations:
+    github.com/project-slug: pparab2017/MessaingApp
+spec:
+  type: other
+  lifecycle: unknown
+  owner: boxoffice
